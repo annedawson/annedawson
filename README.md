@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @annedawson
 - 👀 I’m interested in coding Android apps using Jetpack Compose
-- 🌱 I’m currently learning Jetpack Compose Basics
+- 🌱 I’m currently completing the Android Developers Course: Android Basics with Compose
 - 💞️ I’m looking to collaborate on Jetpack Compose projects
 - 📫 How to reach me: anne.dawson@gmail.com / annedawson.net
 
