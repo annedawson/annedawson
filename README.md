@@ -1,7 +1,10 @@
 Hello World!
 
-My name is Anne Dawson. I’m currently developing Android apps in Kotlin, using Jetpack Compose on Android Studio Koala Feature Drop | 2024.1.2 Canary 2.
-The development machine is a Dell XPS13 laptop (8GB RAM) running Linux (Ubuntu 20.04.6 LTS). 
+My name is Anne Dawson. I’m currently developing Android apps in Kotlin, 
+using Android Studio Meerkat Feature Drop | 2024.3.2 Canary 2
+Build #AI-243.22562.218.2432.12959061, built on January 23, 2025.
+The development machine is a Dell XPS13 laptop (8GB RAM) 
+running Linux (Ubuntu 20.04.6 LTS). 
 
 
 Recommended courses: 
