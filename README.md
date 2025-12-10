@@ -1,8 +1,9 @@
 Hello World!
 
 My name is Anne Dawson. I’m currently developing Android apps in Kotlin, 
-using Android Studio Meerkat Feature Drop | 2024.3.2 Canary 2
-Build #AI-243.22562.218.2432.12959061, built on January 23, 2025.
+using Android Studio Otter | 2025.2.1 Patch 1
+Build #AI-252.25557.131.2521.14432022, built on November 13, 2025
+
 The development machine is a Dell XPS13 laptop (8GB RAM) 
 running Linux (Ubuntu 20.04.6 LTS). 
 
