@@ -1,8 +1,7 @@
 Hello World!
 
 My name is Anne Dawson. I’m currently developing Android apps in Kotlin, 
-using Android Studio Otter | 2025.2.1 Patch 1
-Build #AI-252.25557.131.2521.14432022, built on November 13, 2025
+using Android Studio Panda 2
 
 The development machine is a Dell XPS13 laptop (8GB RAM) 
 running Linux (Ubuntu 20.04.6 LTS). 
