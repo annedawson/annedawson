@@ -1,10 +1,10 @@
 Hello World!
 
 My name is Anne Dawson. I’m currently developing Android apps in Kotlin, 
-using Android Studio Panda 3
+using Android Studio Quail 4 | 2026.1.4 RC 2
 
-The development machine is a Dell XPS13 laptop (8GB RAM) 
-running Linux (Ubuntu 20.04.6 LTS). 
+The development machine is a Lenovo ThinkPad T16 Gen 4 AMD laptop (32GB RAM) 
+running Linux (Ubuntu 24.04.2 LTS). 
 
 
 Recommended courses: 
